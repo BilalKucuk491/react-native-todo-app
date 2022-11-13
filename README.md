@@ -1,4 +1,5 @@
-<h1>React Redux And React Navigiation</h1>
+<h1>Technologies</h1>
+<h2>React Redux And React Navigiation</h2>
 
 <h1>Screenshots</h1>
 
